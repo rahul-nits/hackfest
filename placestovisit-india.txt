@@ -1,0 +1,20 @@
+Format For adding details is as follow:
+1. If state of the country is not present -
+   Create Chain to include details as follow:
+
+      |State_name:
+      |   City/District:
+      |      - Attractions : Little descriptions
+
+2. If state of the country is already present - Just maintain sequence as given in point 1
+
+*******************************************************************************************
+
+MAHARASTRA:
+  * PUNE:
+     - Sinhagarh Fort: Sinhagad(Lion's Fort) is an ancient hill fortress located at around 49 km southwest of the city of Pune, India, the fort had been the site of many battles, most notably the Battle of Sinhagad in 1670.
+
+     - Devkund Waterfall: Amazing place...best place to visit in monsoon.It's 7km trek one side
+
+  * MUMBAI:
+     - Gateway of India: it was the first visit of a British monarch to India. open all day on all days of the week.
