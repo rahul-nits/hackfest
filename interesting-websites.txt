@@ -3,3 +3,4 @@ geoguessr.com  // GeoGuessr is a geography game which takes you on a journey aro
 https://codepen.io/akm2/full/AGgarW //Gravity Points // Check yourself it's very interesting
 https://www.patatap.com/  //Generate Sound on keypress kind of fun you can create your own sound track using keyboard :)
 https://giphy.com/ //Use template to make your customized GIF
+openAI playground //google search // for any thing just write in terminal and AI will do rest.
